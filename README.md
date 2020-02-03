@@ -1,6 +1,10 @@
 # monsterSlayer
 Monster Slayer with VueJs
 
+Feel free to test it:
+
+https://compassionate-colden-a711f2.netlify.com/
+
 # Init screen
 
 ![Init screen of game](https://user-images.githubusercontent.com/11068759/73533823-00209900-4420-11ea-8a06-333641fdfbdf.png)
